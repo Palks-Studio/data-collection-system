@@ -9,6 +9,7 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Build](https://img.shields.io/badge/Build-Local%20Environment-yellow.svg)
+[![Data Collection System EN](https://img.shields.io/badge/Data%20Collection%20System-EN-0095b1?style=for-the-badge)](https://palks-studio.com/en/data-collection)
 
 <p align="center">
   <a href="https://palks-studio.com">
@@ -165,7 +166,7 @@ data-collection-system/
 
 ## Features
 
-> To install and start the application, please follow the detailed instructions in docs/INSTALL.md.
+[![Data Collection System EN](https://img.shields.io/badge/Data%20Collection%20System-EN-0095b1?style=for-the-badge)](https://palks-studio.com/en/data-collection)
 
 ### Search Management
 
