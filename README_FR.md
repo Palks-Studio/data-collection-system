@@ -9,6 +9,7 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Build](https://img.shields.io/badge/Build-Local%20Environment-yellow.svg)
+[![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
 
 <p align="center">
   <a href="https://palks-studio.com">
