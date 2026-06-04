@@ -164,7 +164,7 @@ data-collection-system/
 
 ## Fonctionnalités
 
-> Pour démarrer l'application et l'installer, veuillez suivre le guide détaillé dans docs/INSTALL_FR.md.
+[![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
 
 ### Gestion des recherches
 
