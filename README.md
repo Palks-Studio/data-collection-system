@@ -184,6 +184,8 @@ The collection engine retrieves information from one or more sources.
 
 The architecture relies on independent collectors, making it easy to add new sources without modifying the rest of the application.
 
+Curious to see the full application? The complete demo is available here: [Watch the Complete Demo](https://www.youtube.com/watch?v=W12Njqldd7s)
+
 ---
 
 ### Data Cleaning
