@@ -183,6 +183,8 @@ Le moteur de collecte permet de récupérer des informations depuis une ou plusi
 
 L'architecture repose sur un système de collecteurs indépendants facilitant l'ajout de nouvelles sources sans modifier le reste de l'application.
 
+Curieux de découvrir l'application complète ? La démonstration complète est disponible ici : [Voir la démonstration complète](https://www.youtube.com/watch?v=StPA4lxELS4)
+
 ---
 
 ### Nettoyage des données
