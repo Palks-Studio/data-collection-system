@@ -168,7 +168,7 @@ data-collection-system/
 
 ## Features
 
-[![Data Collection System EN](https://img.shields.io/badge/Data%20Collection%20System-EN-0095b1?style=for-the-badge)](https://palks-studio.com/en/data-collection)
+[View the system](https://palks-studio.com/en/data-collection)
 
 ### Search Management
 
