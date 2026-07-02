@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Build](https://img.shields.io/badge/Build-Local%20Environment-yellow.svg)
+[![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
 [![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
 
 <p align="center">
