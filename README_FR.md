@@ -167,7 +167,7 @@ data-collection-system/
 
 ## Fonctionnalités
 
-[![Système de Collecte de Données FR](https://img.shields.io/badge/Collecte%20de%20Données-FR-0095b1?style=for-the-badge)](https://palks-studio.com/fr/collecte-de-donnees)
+[Voir le système](https://palks-studio.com/fr/collecte-de-donnees)
 
 ### Gestion des recherches
 
